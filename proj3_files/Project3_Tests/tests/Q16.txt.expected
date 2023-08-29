@@ -1,0 +1,5 @@
+a: int #
+b: int #
+c: int #
+x: bool #
+z: bool #

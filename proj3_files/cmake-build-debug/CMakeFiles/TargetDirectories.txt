@@ -1,0 +1,3 @@
+/Users/sajjadali/Desktop/Assignment/compiler/proj3_files/cmake-build-debug/CMakeFiles/proj3_files.dir
+/Users/sajjadali/Desktop/Assignment/compiler/proj3_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sajjadali/Desktop/Assignment/compiler/proj3_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+a, b: int;
+{
+    y = < x + c d;
+    c = + e f;
+    d = - q h;
+}

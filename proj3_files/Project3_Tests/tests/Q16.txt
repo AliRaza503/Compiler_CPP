@@ -1,0 +1,14 @@
+{
+    switch(a){
+        case 1:{
+            b = * c a;
+        }
+        case 2:{
+             x = z;
+        }
+        case 3: {
+            z = <= z z;
+        }
+
+    }
+}
